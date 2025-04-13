@@ -23,7 +23,13 @@ just a password generator written in different languages
 #### then run py password_generator.py 
 #### or python password_generator.py 
 #### or python3 password_generator.py
+### js (no browser)
+#### insall node.js
+#### add it to path
+#### then run node password_generator.js
+### js (browser)
+#### program an html page
+#### link the js file
+#### run the function
 
-# Still UNFINISHED
-## so for now theres only the python tutorial
-## but the code works fine lol
+## note: Theres Only Tutorials for both js, and python but the code works fine
