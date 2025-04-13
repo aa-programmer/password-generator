@@ -15,3 +15,11 @@ just a password generator written in different languages
 ### Rust
 #### Memory-Safe and Fast
 #### Great for system Programming
+
+## How to Run
+### Python
+#### install python
+#### add it to path
+#### then run py password_generator.py 
+#### or python password_generator.py 
+#### or python3 password_generator.py
