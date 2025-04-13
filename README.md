@@ -23,3 +23,7 @@ just a password generator written in different languages
 #### then run py password_generator.py 
 #### or python password_generator.py 
 #### or python3 password_generator.py
+
+# Still UNFINISHED
+## so for now theres only the python tutorial
+## but the code works fine lol
